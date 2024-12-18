@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base:"/search-country/",
   server: {
-    port: 3000 
+    port: 3000 //puerto a usar
   }
 })
